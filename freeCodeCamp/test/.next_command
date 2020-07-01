@@ -142,3 +142,11 @@ clear
 ls --color=auto ./client/assets/icons/
 ls --color=auto
 mv CodeRoad.svg ./client/assets/icons/
+mv freeCodeCamp.svg ./client/assets/icons/
+ls --color=auto
+ls --color=auto
+ls --color=auto ./client/assets/icons/
+ls --color=auto
+mv CodeAlly.svg ./client/assets/icons/
+ls --color=auto ./client/assets/icons/
+mv freeCodeCamp.svg ./client/assets/icons/
