@@ -95,3 +95,36 @@ ls --color=auto
 cd images/
 ls --color=auto
 rm background.jpg
+ls --color=auto
+rmdir images
+cd ..
+rmdir images/
+ls --color=auto
+ls --color=auto
+ls --color=auto
+rmdir images/
+rm background.jpg ./images/
+ls --color=auto
+cd images/
+ls --color=auto
+clear
+rm background.jpg
+ls --color=auto
+cd ..
+ls --color=auto
+rmdir images/
+ls --color=auto
+ls --color=auto
+find -name background.jpg
+rm ./images/background.jpg
+find -name images
+rmdir ./images
+ls --color=auto
+clear
+ls --color=auto
+find -name background.jpg
+rm ./images/background.jpg
+clear
+find -name background.jpg
+ls --color=auto
+rmdir images
