@@ -150,3 +150,4 @@ ls --color=auto
 mv CodeAlly.svg ./client/assets/icons/
 ls --color=auto ./client/assets/icons/
 mv freeCodeCamp.svg ./client/assets/icons/
+find
