@@ -177,3 +177,6 @@ __vsc_prompt_cmd_original
 rm -help
 clear
 rm --help
+clear
+ls --color=auto
+rm -r fonts
