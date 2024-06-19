@@ -156,3 +156,13 @@ ls --color=auto
 find -name assets
 mkdir fonts ./client/assets
 mkdir ./client/assets/fonts
+touch roboto-bold.woff ./client/assets/fonts
+ls --color=auto ./client/assets/fonts
+cd ./client/assets/fonts
+ls --color=auto
+touch ./client/assets/fonts/roboto-bold.woff
+cd ..
+cd ..
+cd ..
+__vsc_prompt_cmd_original
+touch ./client/assets/fonts/roboto-bold.woff
