@@ -24,3 +24,7 @@ find -name footer.jpeg
 mv footer.jpeg ./client/assets/images
 ls --color=auto
 mv images/footer.jpeg ./client/assets/images
+ls --color=auto ./client/assets/images
+ls --color=auto
+ls --color=auto images/
+find
