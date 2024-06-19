@@ -246,3 +246,17 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 [[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
+git remote add origin https://github.com/ramyaparimi/learnbash-by-freecodecamp.git
+__vsc_prompt_cmd_original
+git remote add origin https://github.com/ramyaparimi/learnbash-by-freecodecamp.git
+git remove origin
+git remote remove origin
+git remote add origin https://github.com/ramyaparimi/learnbash-by-freecodecamp.git
+git branch -M main
+git push -u origin main
+cd website-boilerplate/
+cd ..
+ls --color=auto
+cp ./toms-website/README.md ./.
+ls --color=auto
+git push
