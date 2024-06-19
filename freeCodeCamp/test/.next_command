@@ -151,3 +151,8 @@ mv CodeAlly.svg ./client/assets/icons/
 ls --color=auto ./client/assets/icons/
 mv freeCodeCamp.svg ./client/assets/icons/
 find
+clear
+ls --color=auto
+find -name assets
+mkdir fonts ./client/assets
+mkdir ./client/assets/fonts
