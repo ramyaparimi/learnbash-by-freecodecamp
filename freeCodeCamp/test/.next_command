@@ -138,3 +138,7 @@ clear
 find
 find -name CodeAlly.svg
 find
+clear
+ls --color=auto ./client/assets/icons/
+ls --color=auto
+mv CodeRoad.svg ./client/assets/icons/
