@@ -8,3 +8,13 @@ ls --color=auto
 clear
 cd ..
 ls --color=auto
+mv header.png client/assets/images/
+ls --color=auto
+cd client/assets/images/
+ls --color=auto
+mv header.png ../../..
+cd ../../..
+ls --color=auto
+find
+clear
+find -name images
