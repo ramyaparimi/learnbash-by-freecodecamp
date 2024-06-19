@@ -166,3 +166,6 @@ cd ..
 cd ..
 __vsc_prompt_cmd_original
 touch ./client/assets/fonts/roboto-bold.woff
+ls --color=auto
+rm roboto-bold.woff
+touch ./client/assets/fonts/roboto-light.woff
