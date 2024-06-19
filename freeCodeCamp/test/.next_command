@@ -7,3 +7,4 @@ mv header.png ..
 ls --color=auto
 clear
 cd ..
+ls --color=auto
