@@ -129,3 +129,5 @@ find -name background.jpg
 ls --color=auto
 rmdir images
 ls --color=auto
+find -name assets
+mkdir ./client/assets/icons
